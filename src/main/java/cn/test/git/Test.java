@@ -8,5 +8,7 @@ public class Test {
 
     static {
         //1.第二次提交
+
+        //3.第三次提交
     }
 }
